@@ -11,5 +11,4 @@ Lana or nah?
 
 ## Bibliografía
 
-[Aprende JAva con ejercicios]
-(https://leanpub.com/aprendejava)
+[Aprende Java con ejercicios](https://leanpub.com/aprendejava)
