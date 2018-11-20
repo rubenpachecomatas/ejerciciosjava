@@ -6,9 +6,7 @@ package tema.pkg7.arrays;
  * @author ODLana
  */
 public class Ejercicio04ArraysBi {
-    public static void main(String[] args) {
-        
-        throws InterruptedException {
+    public static void main(String[] args) throws InterruptedException {
 
           int[][] num = new int[4][5];
           int fila;
